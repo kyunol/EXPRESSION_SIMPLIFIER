@@ -1,0 +1,7 @@
+﻿  exp_solver.cpp
+C:\Users\super\Downloads\Telegram Desktop\solver_ex\solver_ex\exp_solver.h(17,10): fatal error C1083: Не удается открыть файл включение: value.h: No such file or directory,
+  solver_ex.cpp
+C:\Users\super\Downloads\Telegram Desktop\solver_ex\solver_ex\exp_solver.h(17,10): fatal error C1083: Не удается открыть файл включение: value.h: No such file or directory,
+  exp_value.cpp
+C:\Users\super\Downloads\Telegram Desktop\solver_ex\solver_ex\exp_value.cpp(1,10): fatal error C1083: Не удается открыть файл включение: value.h: No such file or directory,
+  Создание кода...
